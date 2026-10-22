@@ -49,6 +49,8 @@ Me enfoco en escribir código claro y separado por capas, validar las entradas, 
 |---|---|---|---|---|
 | 1 | **Seguimiento de Tareas CLI** | CLI para gestionar tareas: persistencia en JSON con escritura atómica, arquitectura por capas (CLI → lógica → almacenamiento), validación de entradas, códigos de salida y 14 pruebas | Python, JSON, unittest | [Ver](https://github.com/franciscogdeveloper/TaskCLI) |
 | 2 | **GitHub Activity CLI** | Consumo de la API REST de GitHub: cabeceras HTTP, timeouts, códigos de estado, rate limiting, transformación de JSON y 12 pruebas con mocks (sin red) | Python, urllib, REST API, unittest.mock | [Ver](https://github.com/franciscogdeveloper/GitHub-Activity-CLI) |
+| 3 | **Gestor de Gastos CLI** | CLI con `argparse` (subcomandos y opciones con nombre), dinero con `Decimal` en lugar de `float`, resúmenes mensuales con fechas, códigos de salida 0/1/2 y 12 pruebas | Python, argparse, Decimal, JSON, unittest | [Ver](https://github.com/franciscogdeveloper/Gestor-de-Gastos-CLI) |
+
 <!-- Siguiente proyecto: | 3 | **Nombre** | Qué practiqué | Stack | [Ver](url) | -->
 
 <div align="center">
