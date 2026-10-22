@@ -36,6 +36,9 @@ Me enfoco en escribir código claro y separado por capas, validar las entradas, 
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4eaa25?style=for-the-badge&logo=gnubash&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Jinja](https://img.shields.io/badge/Jinja-b41717?style=for-the-badge&logo=jinja&logoColor=white)
 
 </div>
 
@@ -52,8 +55,8 @@ Me enfoco en escribir código claro y separado por capas, validar las entradas, 
 | 3 | **Gestor de Gastos CLI** | CLI con `argparse` (subcomandos y opciones con nombre), dinero con `Decimal` en lugar de `float`, resúmenes mensuales con fechas, códigos de salida 0/1/2 y 12 pruebas | Python, argparse, Decimal, JSON, unittest | [Ver](https://github.com/franciscogdeveloper/Gestor-de-Gastos-CLI) |
 | 4 | **Adivina el Número CLI** | Juego interactivo con `input()`: bucles de juego, validación que no gasta intentos, `random`, manejo de Ctrl+C sin traceback (código 130) y 9 pruebas que simulan el teclado y el azar con mocks | Python, random, unittest.mock | [Ver](https://github.com/franciscogdeveloper/Adivina-el-Numero-CLI) |
 | 5 | **Conversor de Unidades Web** | Primera app web, sin frameworks (`http.server`): GET y POST, rutas, códigos 200/302/400/404/413, formularios con `parse_qs`, plantillas HTML, prevención de XSS con `html.escape` y 16 pruebas, incluidas pruebas de integración con el servidor real | Python, http.server, HTML, unittest | [Ver](https://github.com/franciscogdeveloper/Conversor-de-Unidades-Web) |
-<!-- Siguiente proyecto: | 6 | **Nombre** | Qué practiqué | Stack | [Ver](url) | -->
-
+| 6 | **Blog Personal Web** | Primer proyecto con Flask: entorno virtual y `requirements.txt`, plantillas Jinja con herencia, login con contraseña hasheada y sesión firmada, protección CSRF, secretos en variables de entorno, CRUD de artículos en archivos JSON y 20 pruebas con `test_client` | Python, Flask, Jinja, unittest | [Ver](https://github.com/franciscogdeveloper/Blog-Personal-Web) |
+<!-- Siguiente proyecto: | 7 | **Nombre** | Qué practiqué | Stack | [Ver](url) | -->
 
 <div align="center">
 
