@@ -51,10 +51,9 @@ Me enfoco en escribir código claro y separado por capas, validar las entradas, 
 | 2 | **GitHub Activity CLI** | Consumo de la API REST de GitHub: cabeceras HTTP, timeouts, códigos de estado, rate limiting, transformación de JSON y 12 pruebas con mocks (sin red) | Python, urllib, REST API, unittest.mock | [Ver](https://github.com/franciscogdeveloper/GitHub-Activity-CLI) |
 | 3 | **Gestor de Gastos CLI** | CLI con `argparse` (subcomandos y opciones con nombre), dinero con `Decimal` en lugar de `float`, resúmenes mensuales con fechas, códigos de salida 0/1/2 y 12 pruebas | Python, argparse, Decimal, JSON, unittest | [Ver](https://github.com/franciscogdeveloper/Gestor-de-Gastos-CLI) |
 | 4 | **Adivina el Número CLI** | Juego interactivo con `input()`: bucles de juego, validación que no gasta intentos, `random`, manejo de Ctrl+C sin traceback (código 130) y 9 pruebas que simulan el teclado y el azar con mocks | Python, random, unittest.mock | [Ver](https://github.com/franciscogdeveloper/Adivina-el-Numero-CLI) |
-<!-- Siguiente proyecto: | 5 | **Nombre** | Qué practiqué | Stack | [Ver](url) | -->
+| 5 | **Conversor de Unidades Web** | Primera app web, sin frameworks (`http.server`): GET y POST, rutas, códigos 200/302/400/404/413, formularios con `parse_qs`, plantillas HTML, prevención de XSS con `html.escape` y 16 pruebas, incluidas pruebas de integración con el servidor real | Python, http.server, HTML, unittest | [Ver](https://github.com/franciscogdeveloper/Conversor-de-Unidades-Web) |
+<!-- Siguiente proyecto: | 6 | **Nombre** | Qué practiqué | Stack | [Ver](url) | -->
 
-
-<!-- Siguiente proyecto: | 3 | **Nombre** | Qué practiqué | Stack | [Ver](url) | -->
 
 <div align="center">
 
